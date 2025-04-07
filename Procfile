@@ -1,2 +1,1 @@
-worker: python news.py
-Режим вывода команд на экран (ECHO) включен.
+worker: python news.pyРежим вывода команд на экран (ECHO) включен.
